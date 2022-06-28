@@ -1,5 +1,14 @@
 ![](Top.png)
 
+## Resources
+
+### Read or Watch
+
+* <a href = "https://realpython.com/async-io-python/"> Async IO in Python: A Complete Walkthrough </a> <br>
+
+* <a href = "https://docs.python.org/3/library/asyncio.html"> asyncio - Asynchronous I/O </a> <br>
+
+* <a href = "https://docs.python.org/3/library/random.html#random.uniform"> random.uniform </a><br>
 
 # Requirements
 
