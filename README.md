@@ -5,5 +5,5 @@
 [0x01. Python - Async](./0x01-python_async_function) <br>
 
 
-[0x02. Python - Async Comprehension](./0-async_generator.py)
+[0x02. Python - Async Comprehension](./0x02-python_async_comprehension)
 
